@@ -1,0 +1,16 @@
+{
+  "name": "viernes-13-05-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bomba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.1.3"
+  }
+}
